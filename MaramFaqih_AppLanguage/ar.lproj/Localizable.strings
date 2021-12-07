@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  MaramFaqih_AppLanguage
+
+  Created by meme f on 03/05/1443 AH.
+  
+*/
+
+"underweight" =  "نقص في الوزن";
+"normal" = "وزن طبيعي";
+"overweight" = "وزن زائد";
+"obese" = "سمنة الى درجة الخطورة";
+"height" = "الطول";
+"weight" = "الوزن";
+"CalculateBMI" = "حساب مؤشر كتلة الجسم";

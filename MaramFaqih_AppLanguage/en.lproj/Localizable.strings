@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  MaramFaqih_AppLanguage
+
+  Created by meme f on 03/05/1443 AH.
+  
+*/
+"underweight" =  "underweight";
+"normal" = "normal";
+"overweight" = "overweight";
+"obese" = "obese";
+"height" = "height";
+"weight" = "weight";
+"CalculateBMI" = "Calculate BMI";
