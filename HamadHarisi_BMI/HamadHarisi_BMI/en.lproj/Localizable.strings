@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  HamadHarisi_BMI
+
+  Created by حمد الحريصي on 06/12/2021.
+  
+*/
+"Calculate BMI" = "Calculate BMI";
+"Height" = "Height";
+"Weight" = "Weight";
+"underweight" = "underweight";
+"normal" = "normal";
+"overweight" = "overweight";
+"obese" = "obese";
