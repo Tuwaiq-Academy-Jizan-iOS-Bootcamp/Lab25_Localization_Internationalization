@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "97p-Fm-LEc"; */
+"97p-Fm-LEc.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter your weight in CM"; ObjectID = "MMr-Bs-TEM"; */
+"MMr-Bs-TEM.placeholder" = "Enter your weight in CM";
+
+/* Class = "UITextField"; placeholder = "Enter your height in M"; ObjectID = "T6x-1V-eKc"; */
+"T6x-1V-eKc.placeholder" = "Enter your height in M";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "crQ-eS-G43"; */
+"crQ-eS-G43.text" = "Weight";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "juX-OB-h1Z"; */
+"juX-OB-h1Z.text" = "Height";
+
+/* Class = "UISegmentedControl"; tm0-Jh-uSZ.segmentTitles[0] = "AR"; ObjectID = "tm0-Jh-uSZ"; */
+"tm0-Jh-uSZ.segmentTitles[0]" = "AR";
+
+/* Class = "UISegmentedControl"; tm0-Jh-uSZ.segmentTitles[1] = "EN"; ObjectID = "tm0-Jh-uSZ"; */
+"tm0-Jh-uSZ.segmentTitles[1]" = "EN";
+
+/* Class = "UISegmentedControl"; tm0-Jh-uSZ.segmentTitles[2] = "FR"; ObjectID = "tm0-Jh-uSZ"; */
+"tm0-Jh-uSZ.segmentTitles[2]" = "FR";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x7B-PC-FRs"; */
+"x7B-PC-FRs.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Calculate BMI"; ObjectID = "y6B-bZ-z5I"; */
+"y6B-bZ-z5I.configuration.title" = "Calculate BMI";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "y6B-bZ-z5I"; */
+"y6B-bZ-z5I.normalTitle" = "Button";

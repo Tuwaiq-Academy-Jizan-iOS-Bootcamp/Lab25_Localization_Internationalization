@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  HamadHarisi_BMI
+
+  Created by حمد الحريصي on 06/12/2021.
+  
+*/
+"Calculate BMI" = "حساب كتله الجسم";
+"Height" = "الطول";
+"Weight" = "العرض";
+"underweight" = "الوزن ناقص";
+"normal" = "الوزن طبيعي";
+"overweight" = "الوزن زائد";
+"obese" = "الوزن زائد جداً";
+

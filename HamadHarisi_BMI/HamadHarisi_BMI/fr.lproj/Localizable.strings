@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  HamadHarisi_BMI
+
+  Created by حمد الحريصي on 06/12/2021.
+  
+*/
+"Calculate BMI" = "Calculer l'IMC";
+"Height" = "Hauteur";
+"Weight" = "Poids";
+"underweight" = "insuffisance pondérale";
+"normal" = "Ordinaire";
+"overweight" = "en surpoids";
+"obese" = "obèse";
