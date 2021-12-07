@@ -1,0 +1,15 @@
+/* 
+  Localization.strings
+  JawaherAbuLahsah_BMI
+
+  Created by Jawaher Mohammad on 02/05/1443 AH.
+  
+*/
+"height" = "hauteur";
+"weight" = "poids";
+"calculator" = "calculatrice";
+"undrtweigth" = "undrtweigth";
+"normalweigth" = "poids normal";
+"overweigth" = "surpoids";
+"obese" = "obèse";
+"done"  = "Terminé";
