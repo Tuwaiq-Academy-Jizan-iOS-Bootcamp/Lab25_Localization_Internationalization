@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  test
+
+  Created by Yasir Hakami on 06/12/2021.
+  
+*/
+
+"underweight" = "آقل من الوزن الطبيعي";
+"normalweight" = "الوزن طبيعي";
+"overweight" = "وزن زائد ";
+"obese" = "سمنة";
+"changeLan" = "English";
+"weight" = "الوزن";
+"height" = "الطول";
+"Result" = "النتيجة";
+"addButtenBMI" = "احسب مؤشر كتلة الجسم" ;
+"BMI" = "احسب مؤشر كتلة الجسم";

@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  test
+
+  Created by Yasir Hakami on 06/12/2021.
+  
+*/
+
+
+
+
+"underweight" = "under weight";
+"normalweight" = "normal weight";
+"overweight" = "over weight";
+"obese" = "obese";
+"changeLan" = "اللغة العربية";
+"weight" = "weight";
+"height" = "height";
+"Result" = "Result";
+"addButtenBMI" = "Your BMI" ;
+"BMI" = "BMI";

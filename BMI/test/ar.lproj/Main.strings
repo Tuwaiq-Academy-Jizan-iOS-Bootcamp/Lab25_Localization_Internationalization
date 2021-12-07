@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "weight :"; ObjectID = "9PO-ZH-V5v"; */
+"9PO-ZH-V5v.text" = "weight :";
+
+/* Class = "UILabel"; text = "BMI"; ObjectID = "J2x-Ff-Xco"; */
+"J2x-Ff-Xco.text" = "BMI";
+
+/* Class = "UILabel"; text = "height :"; ObjectID = "MQx-8g-Acg"; */
+"MQx-8g-Acg.text" = "height :";
+
+/* Class = "UITextField"; placeholder = "enter your height eg: 1.90 "; ObjectID = "TXd-3g-xpp"; */
+"TXd-3g-xpp.placeholder" = "enter your height eg: 1.90 ";
+
+/* Class = "UITextField"; placeholder = "enter your weight KG"; ObjectID = "dlJ-y8-jih"; */
+"dlJ-y8-jih.placeholder" = "enter your weight KG";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "gSL-RM-0ZE"; */
+"gSL-RM-0ZE.text" = "Result";
+
+/* Class = "UIButton"; configuration.title = "Your BMI"; ObjectID = "zk2-G8-ixK"; */
+"zk2-G8-ixK.configuration.title" = "Your BMI";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zk2-G8-ixK"; */
+"zk2-G8-ixK.normalTitle" = "Button";
