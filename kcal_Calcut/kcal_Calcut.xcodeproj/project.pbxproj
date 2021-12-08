@@ -1,0 +1,648 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EA5E6A35275F836E0031FFDB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA5E6A34275F836E0031FFDB /* AppDelegate.swift */; };
+		EA5E6A37275F836E0031FFDB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA5E6A36275F836E0031FFDB /* SceneDelegate.swift */; };
+		EA5E6A39275F836E0031FFDB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA5E6A38275F836E0031FFDB /* ViewController.swift */; };
+		EA5E6A3C275F836E0031FFDB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA5E6A3A275F836E0031FFDB /* Main.storyboard */; };
+		EA5E6A3E275F83700031FFDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA5E6A3D275F83700031FFDB /* Assets.xcassets */; };
+		EA5E6A41275F83700031FFDB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA5E6A3F275F83700031FFDB /* LaunchScreen.storyboard */; };
+		EA5E6A4C275F83700031FFDB /* kcal_CalcutTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA5E6A4B275F83700031FFDB /* kcal_CalcutTests.swift */; };
+		EA5E6A56275F83700031FFDB /* kcal_CalcutUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA5E6A55275F83700031FFDB /* kcal_CalcutUITests.swift */; };
+		EA5E6A58275F83700031FFDB /* kcal_CalcutUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA5E6A57275F83700031FFDB /* kcal_CalcutUITestsLaunchTests.swift */; };
+		EA5E6A66275FBBF10031FFDB /* localaziable.strings in Resources */ = {isa = PBXBuildFile; fileRef = EA5E6A68275FBBF10031FFDB /* localaziable.strings */; };
+		EA5E6A6D276081E90031FFDB /* BundleExtention.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA5E6A6C276081E90031FFDB /* BundleExtention.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EA5E6A48275F83700031FFDB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EA5E6A29275F836E0031FFDB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EA5E6A30275F836E0031FFDB;
+			remoteInfo = kcal_Calcut;
+		};
+		EA5E6A52275F83700031FFDB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EA5E6A29275F836E0031FFDB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EA5E6A30275F836E0031FFDB;
+			remoteInfo = kcal_Calcut;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EA5E6A31275F836E0031FFDB /* kcal_Calcut.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kcal_Calcut.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA5E6A34275F836E0031FFDB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		EA5E6A36275F836E0031FFDB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		EA5E6A38275F836E0031FFDB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EA5E6A3B275F836E0031FFDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EA5E6A3D275F83700031FFDB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EA5E6A40275F83700031FFDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		EA5E6A42275F83700031FFDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA5E6A47275F83700031FFDB /* kcal_CalcutTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = kcal_CalcutTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA5E6A4B275F83700031FFDB /* kcal_CalcutTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kcal_CalcutTests.swift; sourceTree = "<group>"; };
+		EA5E6A51275F83700031FFDB /* kcal_CalcutUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = kcal_CalcutUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA5E6A55275F83700031FFDB /* kcal_CalcutUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kcal_CalcutUITests.swift; sourceTree = "<group>"; };
+		EA5E6A57275F83700031FFDB /* kcal_CalcutUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kcal_CalcutUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EA5E6A67275FBBF10031FFDB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/localaziable.strings; sourceTree = "<group>"; };
+		EA5E6A69275FBBFF0031FFDB /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Main.strings; sourceTree = "<group>"; };
+		EA5E6A6A275FBBFF0031FFDB /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		EA5E6A6B275FBBFF0031FFDB /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/localaziable.strings; sourceTree = "<group>"; };
+		EA5E6A6C276081E90031FFDB /* BundleExtention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleExtention.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EA5E6A2E275F836E0031FFDB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA5E6A44275F83700031FFDB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA5E6A4E275F83700031FFDB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EA5E6A28275F836E0031FFDB = {
+			isa = PBXGroup;
+			children = (
+				EA5E6A33275F836E0031FFDB /* kcal_Calcut */,
+				EA5E6A68275FBBF10031FFDB /* localaziable.strings */,
+				EA5E6A6C276081E90031FFDB /* BundleExtention.swift */,
+				EA5E6A4A275F83700031FFDB /* kcal_CalcutTests */,
+				EA5E6A54275F83700031FFDB /* kcal_CalcutUITests */,
+				EA5E6A32275F836E0031FFDB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EA5E6A32275F836E0031FFDB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EA5E6A31275F836E0031FFDB /* kcal_Calcut.app */,
+				EA5E6A47275F83700031FFDB /* kcal_CalcutTests.xctest */,
+				EA5E6A51275F83700031FFDB /* kcal_CalcutUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EA5E6A33275F836E0031FFDB /* kcal_Calcut */ = {
+			isa = PBXGroup;
+			children = (
+				EA5E6A34275F836E0031FFDB /* AppDelegate.swift */,
+				EA5E6A36275F836E0031FFDB /* SceneDelegate.swift */,
+				EA5E6A38275F836E0031FFDB /* ViewController.swift */,
+				EA5E6A3A275F836E0031FFDB /* Main.storyboard */,
+				EA5E6A3D275F83700031FFDB /* Assets.xcassets */,
+				EA5E6A3F275F83700031FFDB /* LaunchScreen.storyboard */,
+				EA5E6A42275F83700031FFDB /* Info.plist */,
+			);
+			path = kcal_Calcut;
+			sourceTree = "<group>";
+		};
+		EA5E6A4A275F83700031FFDB /* kcal_CalcutTests */ = {
+			isa = PBXGroup;
+			children = (
+				EA5E6A4B275F83700031FFDB /* kcal_CalcutTests.swift */,
+			);
+			path = kcal_CalcutTests;
+			sourceTree = "<group>";
+		};
+		EA5E6A54275F83700031FFDB /* kcal_CalcutUITests */ = {
+			isa = PBXGroup;
+			children = (
+				EA5E6A55275F83700031FFDB /* kcal_CalcutUITests.swift */,
+				EA5E6A57275F83700031FFDB /* kcal_CalcutUITestsLaunchTests.swift */,
+			);
+			path = kcal_CalcutUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EA5E6A30275F836E0031FFDB /* kcal_Calcut */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EA5E6A5B275F83700031FFDB /* Build configuration list for PBXNativeTarget "kcal_Calcut" */;
+			buildPhases = (
+				EA5E6A2D275F836E0031FFDB /* Sources */,
+				EA5E6A2E275F836E0031FFDB /* Frameworks */,
+				EA5E6A2F275F836E0031FFDB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = kcal_Calcut;
+			productName = kcal_Calcut;
+			productReference = EA5E6A31275F836E0031FFDB /* kcal_Calcut.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EA5E6A46275F83700031FFDB /* kcal_CalcutTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EA5E6A5E275F83700031FFDB /* Build configuration list for PBXNativeTarget "kcal_CalcutTests" */;
+			buildPhases = (
+				EA5E6A43275F83700031FFDB /* Sources */,
+				EA5E6A44275F83700031FFDB /* Frameworks */,
+				EA5E6A45275F83700031FFDB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EA5E6A49275F83700031FFDB /* PBXTargetDependency */,
+			);
+			name = kcal_CalcutTests;
+			productName = kcal_CalcutTests;
+			productReference = EA5E6A47275F83700031FFDB /* kcal_CalcutTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		EA5E6A50275F83700031FFDB /* kcal_CalcutUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EA5E6A61275F83700031FFDB /* Build configuration list for PBXNativeTarget "kcal_CalcutUITests" */;
+			buildPhases = (
+				EA5E6A4D275F83700031FFDB /* Sources */,
+				EA5E6A4E275F83700031FFDB /* Frameworks */,
+				EA5E6A4F275F83700031FFDB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EA5E6A53275F83700031FFDB /* PBXTargetDependency */,
+			);
+			name = kcal_CalcutUITests;
+			productName = kcal_CalcutUITests;
+			productReference = EA5E6A51275F83700031FFDB /* kcal_CalcutUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EA5E6A29275F836E0031FFDB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1300;
+				LastUpgradeCheck = 1300;
+				TargetAttributes = {
+					EA5E6A30275F836E0031FFDB = {
+						CreatedOnToolsVersion = 13.0;
+					};
+					EA5E6A46275F83700031FFDB = {
+						CreatedOnToolsVersion = 13.0;
+						TestTargetID = EA5E6A30275F836E0031FFDB;
+					};
+					EA5E6A50275F83700031FFDB = {
+						CreatedOnToolsVersion = 13.0;
+						TestTargetID = EA5E6A30275F836E0031FFDB;
+					};
+				};
+			};
+			buildConfigurationList = EA5E6A2C275F836E0031FFDB /* Build configuration list for PBXProject "kcal_Calcut" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				ar,
+			);
+			mainGroup = EA5E6A28275F836E0031FFDB;
+			productRefGroup = EA5E6A32275F836E0031FFDB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EA5E6A30275F836E0031FFDB /* kcal_Calcut */,
+				EA5E6A46275F83700031FFDB /* kcal_CalcutTests */,
+				EA5E6A50275F83700031FFDB /* kcal_CalcutUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EA5E6A2F275F836E0031FFDB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA5E6A41275F83700031FFDB /* LaunchScreen.storyboard in Resources */,
+				EA5E6A3E275F83700031FFDB /* Assets.xcassets in Resources */,
+				EA5E6A3C275F836E0031FFDB /* Main.storyboard in Resources */,
+				EA5E6A66275FBBF10031FFDB /* localaziable.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA5E6A45275F83700031FFDB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA5E6A4F275F83700031FFDB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EA5E6A2D275F836E0031FFDB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA5E6A6D276081E90031FFDB /* BundleExtention.swift in Sources */,
+				EA5E6A39275F836E0031FFDB /* ViewController.swift in Sources */,
+				EA5E6A35275F836E0031FFDB /* AppDelegate.swift in Sources */,
+				EA5E6A37275F836E0031FFDB /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA5E6A43275F83700031FFDB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA5E6A4C275F83700031FFDB /* kcal_CalcutTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA5E6A4D275F83700031FFDB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA5E6A56275F83700031FFDB /* kcal_CalcutUITests.swift in Sources */,
+				EA5E6A58275F83700031FFDB /* kcal_CalcutUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EA5E6A49275F83700031FFDB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EA5E6A30275F836E0031FFDB /* kcal_Calcut */;
+			targetProxy = EA5E6A48275F83700031FFDB /* PBXContainerItemProxy */;
+		};
+		EA5E6A53275F83700031FFDB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EA5E6A30275F836E0031FFDB /* kcal_Calcut */;
+			targetProxy = EA5E6A52275F83700031FFDB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		EA5E6A3A275F836E0031FFDB /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EA5E6A3B275F836E0031FFDB /* Base */,
+				EA5E6A69275FBBFF0031FFDB /* ar */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		EA5E6A3F275F83700031FFDB /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EA5E6A40275F83700031FFDB /* Base */,
+				EA5E6A6A275FBBFF0031FFDB /* ar */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		EA5E6A68275FBBF10031FFDB /* localaziable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EA5E6A67275FBBF10031FFDB /* en */,
+				EA5E6A6B275FBBFF0031FFDB /* ar */,
+			);
+			name = localaziable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EA5E6A59275F83700031FFDB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		EA5E6A5A275F83700031FFDB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EA5E6A5C275F83700031FFDB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = kcal_Calcut/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tuwaiqAcademy.kcal-Calcut";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EA5E6A5D275F83700031FFDB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = kcal_Calcut/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tuwaiqAcademy.kcal-Calcut";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		EA5E6A5F275F83700031FFDB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tuwaiqAcademy.kcal-CalcutTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/kcal_Calcut.app/kcal_Calcut";
+			};
+			name = Debug;
+		};
+		EA5E6A60275F83700031FFDB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tuwaiqAcademy.kcal-CalcutTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/kcal_Calcut.app/kcal_Calcut";
+			};
+			name = Release;
+		};
+		EA5E6A62275F83700031FFDB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tuwaiqAcademy.kcal-CalcutUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = kcal_Calcut;
+			};
+			name = Debug;
+		};
+		EA5E6A63275F83700031FFDB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tuwaiqAcademy.kcal-CalcutUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = kcal_Calcut;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EA5E6A2C275F836E0031FFDB /* Build configuration list for PBXProject "kcal_Calcut" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA5E6A59275F83700031FFDB /* Debug */,
+				EA5E6A5A275F83700031FFDB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EA5E6A5B275F83700031FFDB /* Build configuration list for PBXNativeTarget "kcal_Calcut" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA5E6A5C275F83700031FFDB /* Debug */,
+				EA5E6A5D275F83700031FFDB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EA5E6A5E275F83700031FFDB /* Build configuration list for PBXNativeTarget "kcal_CalcutTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA5E6A5F275F83700031FFDB /* Debug */,
+				EA5E6A60275F83700031FFDB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EA5E6A61275F83700031FFDB /* Build configuration list for PBXNativeTarget "kcal_CalcutUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA5E6A62275F83700031FFDB /* Debug */,
+				EA5E6A63275F83700031FFDB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EA5E6A29275F836E0031FFDB /* Project object */;
+}

@@ -1,0 +1,18 @@
+/* 
+  localaziable.strings
+  kcal_Calcut
+
+  Created by dahma alwani on 03/05/1443 AH.
+  
+*/
+"age" = "age";
+"height" = "height";
+"weight" = "weight";
+"calculation" = "calculation";
+"Sedentary" = "Sedentary";
+"moderate" = "moderate";
+"heavey" = "heavey";
+"your calore is" = "";
+"male" = "male";
+"female" = "female";
+

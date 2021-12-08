@@ -1,0 +1,18 @@
+/* 
+  localaziable.strings
+  kcal_Calcut
+
+  Created by dahma alwani on 03/05/1443 AH.
+  
+*/
+"age" = "العمر";
+"height" = "الطول";
+"weight" = "الوزن";
+"calculation" = "أحسب";
+"Sedentary" = "قليل الحركه";
+"moderate" = "متوسط الحركه";
+"heavey" = "كثير الحركه";
+"your calore is" = "سعراتك الحرارية هي";
+"male" = "رجل";
+"female" = "أنثى";
+
