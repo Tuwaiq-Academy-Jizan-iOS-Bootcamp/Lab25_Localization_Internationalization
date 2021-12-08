@@ -1,0 +1,15 @@
+"bodyMassIndex" = "مؤشر كتلة الجسم";
+"normal" = "طبيعي";
+"overweight" = "وزن زائد";
+"obese" = "سمين";
+"height" = "الطول";
+"weight" = "الوزن";
+"underweight" = "وزن ناقص";
+"calculate" = "احسب";
+"pleaseEnterYourHeighInMeterEg1.7" = "الرجاء ادخال طولك بالمتر.. مثال ١،٧";
+"pleaseEnterYourWeight" = "الرجاء ادخال وزنك";
+"error" = "خطأ";
+"pleaseAddHeightAndWidthInTheCorrectFormat" = "الرجاء ادخال الطول و الوزن بالطريقة الصحيحة";
+"weightInNumbers" = "الوزن بالأرقام";
+"weightCondition" = "حالة الوزن";
+"done" = "تم";
