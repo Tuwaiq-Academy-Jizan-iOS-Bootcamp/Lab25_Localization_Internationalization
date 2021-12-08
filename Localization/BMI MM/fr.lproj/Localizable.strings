@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  BMI MM
+
+  Created by موسى مسملي on 08/12/2021.
+  
+*/
+"underweight" =  "insuffisance pondérale";
+"normal" = "Ordinaire";
+"overweight" = "en surpoids";
+"obese" = "obèse";
+"height" = "hèight";
+"weight" = "wèight";
+
