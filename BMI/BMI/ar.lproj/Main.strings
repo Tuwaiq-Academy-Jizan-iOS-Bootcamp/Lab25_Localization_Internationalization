@@ -1,0 +1,18 @@
+
+/* Class = "UITextField"; placeholder = "size KG"; ObjectID = "Tud-yi-S8j"; */
+"Tud-yi-S8j.placeholder" = "size KG";
+
+/* Class = "UITextField"; placeholder = "toll Mitter"; ObjectID = "X1o-Up-gvs"; */
+"X1o-Up-gvs.placeholder" = "toll Mitter";
+
+/* Class = "UIButton"; configuration.title = "MBI"; ObjectID = "m2r-eS-3rZ"; */
+"m2r-eS-3rZ.configuration.title" = "MBI";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "m2r-eS-3rZ"; */
+"m2r-eS-3rZ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "reselt"; ObjectID = "wvb-ur-KKR"; */
+"wvb-ur-KKR.text" = "reselt";
+
+/* Class = "UILabel"; text = "reselt"; ObjectID = "wyT-vF-FPn"; */
+"wyT-vF-FPn.text" = "reselt";

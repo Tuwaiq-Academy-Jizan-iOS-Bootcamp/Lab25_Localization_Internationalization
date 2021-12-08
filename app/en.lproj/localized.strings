@@ -1,0 +1,16 @@
+/* 
+  localized.strings
+  app
+
+  Created by Hanan Somily on 06/12/2021.
+  
+*/
+"underweight" =  "underweight";
+"normal" = "normal";
+"overweight" = "overweight";
+"obese" = "obese";
+"height" = "height";
+"weight" = "weight";
+"Perfect Weight" = "Perfect Weight";
+"calculate" = "Calculate";
+"Done" = "Done";

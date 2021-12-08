@@ -1,0 +1,11 @@
+/* 
+  localized.strings
+  BMI
+
+  Created by Hanan Somily on 06/12/2021.
+  
+*/
+"underwight" = "Underwight" ;
+"normal weight" = "Normal weight";
+"overweight" = "overweight";
+"obese" = "Fat";
