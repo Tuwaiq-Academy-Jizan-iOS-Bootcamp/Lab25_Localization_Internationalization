@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  BMI
+
+  Created by Abdulrahman Gazwani on 07/12/2021.
+  
+*/
+
+"Calculate BMI" = "حساب كتلة الجسم";
+"underweight" =  "نقص في الوزن";
+"normal" = "وزن طبيعي";
+"overweight" = "وزن زائد";
+"obese" = "سمنة الى درجة الخطورة";
+"height" = "الطول";
+"weight" = "الوزن";

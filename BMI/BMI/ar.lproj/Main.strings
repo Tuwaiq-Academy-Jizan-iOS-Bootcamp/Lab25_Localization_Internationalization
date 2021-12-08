@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Ee-76-xuz"; */
+"5Ee-76-xuz.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "HWY-vw-rxq"; */
+"HWY-vw-rxq.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HWY-vw-rxq"; */
+"HWY-vw-rxq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OQ9-Vj-NSA"; */
+"OQ9-Vj-NSA.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "V3d-nE-jg5"; */
+"V3d-nE-jg5.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lT3-Zk-XKX"; */
+"lT3-Zk-XKX.text" = "Label";
+
+/* Class = "UISegmentedControl"; nju-bm-Efw.segmentTitles[0] = "AR"; ObjectID = "nju-bm-Efw"; */
+"nju-bm-Efw.segmentTitles[0]" = "AR";
+
+/* Class = "UISegmentedControl"; nju-bm-Efw.segmentTitles[1] = "EN"; ObjectID = "nju-bm-Efw"; */
+"nju-bm-Efw.segmentTitles[1]" = "EN";
+
+/* Class = "UISegmentedControl"; nju-bm-Efw.segmentTitles[2] = "FR"; ObjectID = "nju-bm-Efw"; */
+"nju-bm-Efw.segmentTitles[2]" = "FR";
