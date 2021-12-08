@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "bmi"; ObjectID = "BVQ-Vt-Cd2"; */
+"BVQ-Vt-Cd2.text" = "bmi";
+
+/* Class = "UISegmentedControl"; LBY-oU-Hdr.segmentTitles[0] = "AR"; ObjectID = "LBY-oU-Hdr"; */
+"LBY-oU-Hdr.segmentTitles[0]" = "AR";
+
+/* Class = "UISegmentedControl"; LBY-oU-Hdr.segmentTitles[1] = "EN"; ObjectID = "LBY-oU-Hdr"; */
+"LBY-oU-Hdr.segmentTitles[1]" = "EN";
+
+/* Class = "UISegmentedControl"; LBY-oU-Hdr.segmentTitles[2] = "FR"; ObjectID = "LBY-oU-Hdr"; */
+"LBY-oU-Hdr.segmentTitles[2]" = "FR";
+
+/* Class = "UILabel"; text = "height"; ObjectID = "PV8-BO-AEc"; */
+"PV8-BO-AEc.text" = "height";
+
+/* Class = "UILabel"; text = "weight"; ObjectID = "hgb-M3-O1A"; */
+"hgb-M3-O1A.text" = "weight";
+
+/* Class = "UILabel"; text = "descripional"; ObjectID = "tDu-Ve-IpV"; */
+"tDu-Ve-IpV.text" = "descripional";
+
+/* Class = "UIButton"; configuration.title = "calculat"; ObjectID = "zg3-GB-VLQ"; */
+"zg3-GB-VLQ.configuration.title" = "calculat";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zg3-GB-VLQ"; */
+"zg3-GB-VLQ.normalTitle" = "Button";
