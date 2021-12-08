@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Interanationalzation
+
+  Created by Ehab Hakami on 01/05/1443 AH.
+  
+*/
+
+"underweight" = "آقل من الوزن الطبيعي";
+"normalweight" = "الوزن طبيعي";
+"overweight" = "وزن زائد ";
+"obese" = "سمنة";
+"wight" = "الوزن";
+"hight" = "الطول";
+"eqwilBmi" = "نتيجة كتلة الجسم";
+"ChangeLanguagh" = "Englesh";
+"CalcuateBmi" = "احسب كتلة الجسم";
+"Bmi" = "Bmi";
