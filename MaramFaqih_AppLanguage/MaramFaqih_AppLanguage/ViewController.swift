@@ -16,13 +16,12 @@ class ViewController: UIViewController {
         }
         
     }
-    let numberToolbar: UIToolbar = UIToolbar()
+    //let numberToolbar: UIToolbar = UIToolbar()
 
     @IBOutlet weak var changeLangugeOutLet: UISegmentedControl!
     {
         didSet {
         if let lang = UserDefaults.standard.string(forKey: "currentLanguage") {
-           // UserDefaults.standard.setValue([lang], forKey: "AppleLanguages")
             switch lang {
             case "ar":
                 changeLangugeOutLet.selectedSegmentIndex = 1
@@ -43,7 +42,7 @@ class ViewController: UIViewController {
         
         }else {
             let localLang =  Locale.current.languageCode
-          //  UserDefaults.standard.setValue([localLang], forKey: "AppleLanguages")
+            UserDefaults.standard.setValue([localLang], forKey: "AppleLanguages")
              if localLang == "en" {
                  changeLangugeOutLet.selectedSegmentIndex = 0
              } else {
@@ -73,9 +72,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let toolbar:UIToolbar = UIToolbar(frame: CGRect(x: 0, y: 0,  width: self.view.frame.size.width, height: 30))
-          let flexSpace = UIBarButtonItem(barButtonSystemItem:    .flexibleSpace, target: nil, action: nil)
-        let doneBtn: UIBarButtonItem = UIBarButtonItem(title: "Done", style: .done, target: self, action: #selector(self.doneButtonAction))
+        let toolbar:UIToolbar = UIToolbar()
+          let flexSpace = UIBarButtonItem(barButtonSystemItem: .flexibleSpace, target: nil, action: nil)
+        let doneBtn: UIBarButtonItem = UIBarButtonItem(title: "Done".localized, style: .done, target: self, action: #selector(self.doneButtonAction))
           toolbar.setItems([flexSpace, doneBtn], animated: false)
           toolbar.sizeToFit()
           self.weightTextField.inputAccessoryView = toolbar
