@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  AfafAlqahtani-LocateTextFild
+
+  Created by Afaf Yahya on 01/05/1443 AH.
+  
+*/
+"underweight" =  "underweight";
+"normal" = "normal";
+"overweight" = "overweight";
+"obese" = "obese";
+"height" = "height";
+"weight" = "weight";
