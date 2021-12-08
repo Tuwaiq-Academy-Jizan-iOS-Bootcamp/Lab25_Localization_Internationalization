@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Bushra_Barakat_BMI
+
+  Created by Bushra Barakat on 03/05/1443 AH.
+  
+*/
+"Under Weight" = "Under Weight";
+"Normal Weight" = "Normal Weight";
+"Over Weight" = "Over Weight";
+"Obese" = "Obese";
+"height" = "height";
+"weight" = "wight";
+"Calculate" = "Calculate";
+"done" = "done";

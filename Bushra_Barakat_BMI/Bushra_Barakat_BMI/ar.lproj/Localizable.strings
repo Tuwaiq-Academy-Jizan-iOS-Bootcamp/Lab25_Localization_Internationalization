@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Bushra_Barakat_BMI
+
+  Created by Bushra Barakat on 03/05/1443 AH.
+  
+*/
+"Under Weight" = "نقص في الوزن";
+"Normal Weight" = "وزن طبيعي";
+"Over Weight" = "وزن زائد";
+"Obese" = "سمنة";
+"height" = "الطول";
+"weight" = "الوزن";
+"Calculate" = "الحساب";
+"done" = "تم";
+
