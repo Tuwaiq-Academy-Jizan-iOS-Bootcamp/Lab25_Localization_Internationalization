@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Arh-pP-EHi"; */
+"Arh-pP-EHi.text" = "Label";
+
+/* Class = "UILabel"; text = "height"; ObjectID = "O7a-sS-0Lt"; */
+"O7a-sS-0Lt.text" = "height";
+
+/* Class = "UILabel"; text = "weight"; ObjectID = "WvF-24-qiA"; */
+"WvF-24-qiA.text" = "weight";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iTJ-HJ-Eze"; */
+"iTJ-HJ-Eze.text" = "Label";
+
+/* Class = "UISegmentedControl"; r4Y-np-geL.segmentTitles[0] = "EN"; ObjectID = "r4Y-np-geL"; */
+"r4Y-np-geL.segmentTitles[0]" = "EN";
+
+/* Class = "UISegmentedControl"; r4Y-np-geL.segmentTitles[1] = "AR"; ObjectID = "r4Y-np-geL"; */
+"r4Y-np-geL.segmentTitles[1]" = "AR";
+
+/* Class = "UIButton"; configuration.title = "Calculate BMI"; ObjectID = "xfN-HW-OEI"; */
+"xfN-HW-OEI.configuration.title" = "Calculate BMI";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xfN-HW-OEI"; */
+"xfN-HW-OEI.normalTitle" = "Button";
