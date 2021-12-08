@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  BMI
+
+  Created by NoON .. on 03/05/1443 AH.
+  
+*/
+
+"underweight" =  "underweight";
+"normal" = "normal";
+"overweight" = "overweight";
+"obese" = "obese";
+"height" = "height";
+"weight" = "weight";
+"Done" = "Done";
+"Calculate BMI" = "Calculate BMI";
