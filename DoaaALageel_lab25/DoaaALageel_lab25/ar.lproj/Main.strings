@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Clh-dE-mO4"; */
+"Clh-dE-mO4.text" = "Label";
+
+/* Class = "UILabel"; text = "height"; ObjectID = "D0c-eB-BQH"; */
+"D0c-eB-BQH.text" = "height";
+
+/* Class = "UISegmentedControl"; Hsk-vp-A3p.segmentTitles[0] = "EN"; ObjectID = "Hsk-vp-A3p"; */
+"Hsk-vp-A3p.segmentTitles[0]" = "EN";
+
+/* Class = "UISegmentedControl"; Hsk-vp-A3p.segmentTitles[1] = "AR"; ObjectID = "Hsk-vp-A3p"; */
+"Hsk-vp-A3p.segmentTitles[1]" = "AR";
+
+/* Class = "UILabel"; text = "weight"; ObjectID = "g6h-KZ-5Ok"; */
+"g6h-KZ-5Ok.text" = "weight";
+
+/* Class = "UIButton"; configuration.title = "Calculate BMI"; ObjectID = "kaJ-Su-VBu"; */
+"kaJ-Su-VBu.configuration.title" = "Calculate BMI";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kaJ-Su-VBu"; */
+"kaJ-Su-VBu.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qGV-bK-mIH"; */
+"qGV-bK-mIH.text" = "Label";
