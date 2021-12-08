@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  BMI
+
+  Created by Abdulrahman Gazwani on 07/12/2021.
+  
+*/
+"Calculate BMI" = "Calculate I'ImI";
+"underweight" =  "insuffisance pondérale";
+"normal" = "Ordinaire";
+"overweight" = "en surpoids";
+"obese" = "obèse";
+"height" = "hèight";
+"weight" = "wèight";
