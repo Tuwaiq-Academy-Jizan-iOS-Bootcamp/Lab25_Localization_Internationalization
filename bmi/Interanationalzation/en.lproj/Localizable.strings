@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Interanationalzation
+
+  Created by Ehab Hakami on 01/05/1443 AH.
+  
+*/
+"wight" = "wight";
+
+"hight" = "hight";
+
+"eqwilBmi" = "eqwilBmi";
+
+"ChangeLanguagh" = "العربية";
+"Bmi" = "Bmi";
+
+"CalcuateBmi" = "CalcuateBmi";
+
+"underweight" = "underweight";
+"normalweight" = "normalweight";
+"overweight" = "overweight";
+"obese" = "obese";

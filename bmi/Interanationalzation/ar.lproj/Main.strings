@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PBQ-Mg-BX0"; */
+"PBQ-Mg-BX0.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "EN"; ObjectID = "bft-9K-elX"; */
+"bft-9K-elX.configuration.title" = "EN";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bft-9K-elX"; */
+"bft-9K-elX.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cZz-mL-zlL"; */
+"cZz-mL-zlL.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "AR"; ObjectID = "idb-tT-gNP"; */
+"idb-tT-gNP.configuration.title" = "AR";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "idb-tT-gNP"; */
+"idb-tT-gNP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "n7o-mH-sTY"; */
+"n7o-mH-sTY.text" = "Label";
