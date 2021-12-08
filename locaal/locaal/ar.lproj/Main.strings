@@ -1,0 +1,27 @@
+
+/* Class = "UISegmentedControl"; 0cK-9L-4K2.segmentTitles[0] = "AR"; ObjectID = "0cK-9L-4K2"; */
+"0cK-9L-4K2.segmentTitles[0]" = "AR";
+
+/* Class = "UISegmentedControl"; 0cK-9L-4K2.segmentTitles[1] = "EN"; ObjectID = "0cK-9L-4K2"; */
+"0cK-9L-4K2.segmentTitles[1]" = "EN";
+
+/* Class = "UISegmentedControl"; 0cK-9L-4K2.segmentTitles[2] = "FR"; ObjectID = "0cK-9L-4K2"; */
+"0cK-9L-4K2.segmentTitles[2]" = "FR";
+
+/* Class = "UITextField"; placeholder = "please enter your weight"; ObjectID = "DYN-XR-jC9"; */
+"DYN-XR-jC9.placeholder" = "please enter your weight";
+
+/* Class = "UILabel"; text = "weight"; ObjectID = "ggN-5u-Qi4"; */
+"ggN-5u-Qi4.text" = "weight";
+
+/* Class = "UITextField"; placeholder = "please enter your height in meter eg 1.7"; ObjectID = "nrd-I0-ztn"; */
+"nrd-I0-ztn.placeholder" = "please enter your height in meter eg 1.7";
+
+/* Class = "UILabel"; text = "height"; ObjectID = "rBo-uA-Cis"; */
+"rBo-uA-Cis.text" = "height";
+
+/* Class = "UIButton"; configuration.title = "Calculate BMI"; ObjectID = "teT-CM-Mfh"; */
+"teT-CM-Mfh.configuration.title" = "Calculate BMI";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "teT-CM-Mfh"; */
+"teT-CM-Mfh.normalTitle" = "Button";
