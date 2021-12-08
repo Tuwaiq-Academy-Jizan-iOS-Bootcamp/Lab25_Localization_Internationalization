@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8fL-eT-JOi"; */
+"8fL-eT-JOi.text" = "Label";
+
+/* Class = "UISegmentedControl"; J4W-tC-cHi.segmentTitles[0] = "First"; ObjectID = "J4W-tC-cHi"; */
+"J4W-tC-cHi.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; J4W-tC-cHi.segmentTitles[1] = "Second"; ObjectID = "J4W-tC-cHi"; */
+"J4W-tC-cHi.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Nj5-vG-9Km"; */
+"Nj5-vG-9Km.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "RUh-sM-FkT"; */
+"RUh-sM-FkT.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RUh-sM-FkT"; */
+"RUh-sM-FkT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "Ytq-MP-ITe"; */
+"Ytq-MP-ITe.text" = "Height";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "iDP-sN-G4z"; */
+"iDP-sN-G4z.text" = "Weight";
