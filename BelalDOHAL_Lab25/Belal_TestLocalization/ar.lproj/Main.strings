@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; configuration.title = "Calculate"; ObjectID = "216-b6-tZx"; */
+"216-b6-tZx.configuration.title" = "Calculate";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "216-b6-tZx"; */
+"216-b6-tZx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Weight in Number"; ObjectID = "M81-9w-X8X"; */
+"M81-9w-X8X.text" = "Weight in Number";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "PX6-bC-dRe"; */
+"PX6-bC-dRe.text" = "Weight";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "UnK-4V-iYy"; */
+"UnK-4V-iYy.text" = "Height";
+
+/* Class = "UISegmentedControl"; h7a-F6-pGB.segmentTitles[0] = "AR"; ObjectID = "h7a-F6-pGB"; */
+"h7a-F6-pGB.segmentTitles[0]" = "AR";
+
+/* Class = "UISegmentedControl"; h7a-F6-pGB.segmentTitles[1] = "EN"; ObjectID = "h7a-F6-pGB"; */
+"h7a-F6-pGB.segmentTitles[1]" = "EN";
+
+/* Class = "UISegmentedControl"; h7a-F6-pGB.segmentTitles[2] = "FR"; ObjectID = "h7a-F6-pGB"; */
+"h7a-F6-pGB.segmentTitles[2]" = "FR";
+
+/* Class = "UILabel"; text = "Weight Condition"; ObjectID = "m72-zx-wsn"; */
+"m72-zx-wsn.text" = "Weight Condition";
+
+/* Class = "UILabel"; text = "Body Mass Index"; ObjectID = "uF8-gM-ezj"; */
+"uF8-gM-ezj.text" = "Body Mass Index";
