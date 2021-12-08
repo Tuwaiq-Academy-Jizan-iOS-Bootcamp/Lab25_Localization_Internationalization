@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  changeLanguege
+
+  Created by grand ahmad on 03/05/1443 AH.
+  
+*/
+"underweight" =  "نقص في الوزن";
+"normal" = "وزن طبيعي";
+"overweight" = "وزن زائد";
+"obese" = "سمنة الى درجة الخطورة";
+"height" = "الطول";
+"weight" = "الوزن";
