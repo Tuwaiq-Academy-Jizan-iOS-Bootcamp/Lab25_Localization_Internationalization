@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "2wM-MN-0vz"; */
+"2wM-MN-0vz.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2wM-MN-0vz"; */
+"2wM-MN-0vz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D8W-1N-MJ6"; */
+"D8W-1N-MJ6.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LNg-dr-u9U"; */
+"LNg-dr-u9U.text" = "Label";
+
+/* Class = "UISegmentedControl"; OCk-4k-QUO.segmentTitles[0] = "First"; ObjectID = "OCk-4k-QUO"; */
+"OCk-4k-QUO.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; OCk-4k-QUO.segmentTitles[1] = "Second"; ObjectID = "OCk-4k-QUO"; */
+"OCk-4k-QUO.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aV1-aB-h3C"; */
+"aV1-aB-h3C.text" = "Label";

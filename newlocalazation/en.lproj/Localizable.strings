@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  newlocalazation
+
+  Created by Arwa Alattas on 03/05/1443 AH.
+  
+*/
+"diameter" = "Enter the diameter of circle";
+"calcircumferenceOfCircle" = "Circumference Of Circle";
+
