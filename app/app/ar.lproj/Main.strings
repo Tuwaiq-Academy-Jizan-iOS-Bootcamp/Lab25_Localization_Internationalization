@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1GF-eX-VnT"; */
+"1GF-eX-VnT.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "6L8-6c-y9p"; */
+"6L8-6c-y9p.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6L8-6c-y9p"; */
+"6L8-6c-y9p.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EVu-Er-Ehk"; */
+"EVu-Er-Ehk.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZvW-p9-D8j"; */
+"ZvW-p9-D8j.text" = "Label";
+
+/* Class = "UISegmentedControl"; eWg-BJ-qtl.segmentTitles[0] = "AR"; ObjectID = "eWg-BJ-qtl"; */
+"eWg-BJ-qtl.segmentTitles[0]" = "AR";
+
+/* Class = "UISegmentedControl"; eWg-BJ-qtl.segmentTitles[1] = "EN"; ObjectID = "eWg-BJ-qtl"; */
+"eWg-BJ-qtl.segmentTitles[1]" = "EN";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ek2-jp-1ge"; */
+"ek2-jp-1ge.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jXY-Y2-S6A"; */
+"jXY-Y2-S6A.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oc1-wa-VhR"; */
+"oc1-wa-VhR.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qul-d3-UkF"; */
+"qul-d3-UkF.text" = "Label";

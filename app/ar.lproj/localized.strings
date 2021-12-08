@@ -1,0 +1,16 @@
+/* 
+  localized.strings
+  app
+
+  Created by Hanan Somily on 06/12/2021.
+  
+*/
+"underweight" =  "نقص الوزن";
+"normal" = "وزن طبيعي";
+"overweight" = "وزن زائد";
+"obese" = "سمنه مفرطه";
+"height" = "الطول";
+"weight" = "الوزن";
+"Perfect Weight" = "الوزن المثالي";
+"calculate" = "حساب";
+"Done" = "تم";
