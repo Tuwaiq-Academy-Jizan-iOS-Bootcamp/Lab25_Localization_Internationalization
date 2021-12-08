@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "15x-xg-4G2"; */
+"15x-xg-4G2.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EOw-Ny-Tz1"; */
+"EOw-Ny-Tz1.text" = "Label";
+
+/* Class = "UISegmentedControl"; ISh-Hn-Zan.segmentTitles[0] = "عربي"; ObjectID = "ISh-Hn-Zan"; */
+"ISh-Hn-Zan.segmentTitles[0]" = "عربي";
+
+/* Class = "UISegmentedControl"; ISh-Hn-Zan.segmentTitles[1] = "English"; ObjectID = "ISh-Hn-Zan"; */
+"ISh-Hn-Zan.segmentTitles[1]" = "English";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "d9P-V7-hiM"; */
+"d9P-V7-hiM.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x1i-ZN-Tal"; */
+"x1i-ZN-Tal.text" = "Label";

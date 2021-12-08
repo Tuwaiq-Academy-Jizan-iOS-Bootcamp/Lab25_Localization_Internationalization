@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "height"; ObjectID = "Dac-PY-jyi"; */
+"Dac-PY-jyi.text" = "height";
+
+/* Class = "UIButton"; configuration.title = "Calculate BMI"; ObjectID = "Fak-mg-jzZ"; */
+"Fak-mg-jzZ.configuration.title" = "Calculate BMI";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Fak-mg-jzZ"; */
+"Fak-mg-jzZ.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "please enter your height in meter eg 1.7"; ObjectID = "HfZ-MC-KIP"; */
+"HfZ-MC-KIP.placeholder" = "please enter your height in meter eg 1.7";
+
+/* Class = "UISegmentedControl"; rRx-id-YPG.segmentTitles[0] = "AR"; ObjectID = "rRx-id-YPG"; */
+"rRx-id-YPG.segmentTitles[0]" = "AR";
+
+/* Class = "UISegmentedControl"; rRx-id-YPG.segmentTitles[1] = "EN"; ObjectID = "rRx-id-YPG"; */
+"rRx-id-YPG.segmentTitles[1]" = "EN";
+
+/* Class = "UISegmentedControl"; rRx-id-YPG.segmentTitles[2] = "FR"; ObjectID = "rRx-id-YPG"; */
+"rRx-id-YPG.segmentTitles[2]" = "FR";
+
+/* Class = "UITextField"; placeholder = "please enter your weight"; ObjectID = "u8a-O4-t0P"; */
+"u8a-O4-t0P.placeholder" = "please enter your weight";
+
+/* Class = "UILabel"; text = "weight"; ObjectID = "wLv-yx-IOG"; */
+"wLv-yx-IOG.text" = "weight";
