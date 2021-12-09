@@ -82,7 +82,7 @@ class ViewController: UIViewController {
             sceneDelegate.window?.rootViewController = storyboard.instantiateInitialViewController()
         }
     }
-    }
+}
 @IBAction func calculateBMI(_ sender: Any) {
     if let weightText = weightTextField.text,
        let heightText = heightTextField.text{
