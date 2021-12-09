@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  lab6Dec
+
+  Created by Ahlam Ahlam on 03/05/1443 AH.
+  
+*/
+"underweight" =  "insuffisance pondérale";
+"normal" = "Ordinaire";
+"overweight" = "en surpoids";
+"obese" = "obèse";
+"height" = "hèight";
+"weight" = "wèight";
