@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Lab25_Localization_Internationalization
+
+  Created by Faten Abdullh salem on 04/05/1443 AH.
+  
+*/
+"underweight" = "نقص في الوزن";
+"normal" = "وزن طبيعي";
+"overweight" = "وزن زائد";
+"obese" = "سمنة الى درجة الخطورة";
+"height" = "الطول";
+"weight" = "الوزن";
+"CalculateBMI" = "الجسم مؤشر كتلة الجسم";
+"Done" = "تم";
