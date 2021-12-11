@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "1Qp-eM-Tso"; */
+"1Qp-eM-Tso.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1Qp-eM-Tso"; */
+"1Qp-eM-Tso.normalTitle" = "Button";
+
+/* Class = "UISegmentedControl"; AZl-3c-GjH.segmentTitles[0] = "AR"; ObjectID = "AZl-3c-GjH"; */
+"AZl-3c-GjH.segmentTitles[0]" = "AR";
+
+/* Class = "UISegmentedControl"; AZl-3c-GjH.segmentTitles[1] = "EN"; ObjectID = "AZl-3c-GjH"; */
+"AZl-3c-GjH.segmentTitles[1]" = "EN";
+
+/* Class = "UISegmentedControl"; AZl-3c-GjH.segmentTitles[2] = "FR"; ObjectID = "AZl-3c-GjH"; */
+"AZl-3c-GjH.segmentTitles[2]" = "FR";
+
+/* Class = "UITextField"; placeholder = "please enter your height"; ObjectID = "BaJ-OB-hOd"; */
+"BaJ-OB-hOd.placeholder" = "please enter your height";
+
+/* Class = "UILabel"; text = "."; ObjectID = "MpT-sV-gpx"; */
+"MpT-sV-gpx.text" = ".";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "akP-Bc-hcJ"; */
+"akP-Bc-hcJ.text" = "Weight";
+
+/* Class = "UITextField"; placeholder = "please enter your weight"; ObjectID = "fQB-Uu-3JD"; */
+"fQB-Uu-3JD.placeholder" = "please enter your weight";
+
+/* Class = "UILabel"; text = "height"; ObjectID = "fhG-Hn-g5a"; */
+"fhG-Hn-g5a.text" = "height";
