@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  newlocalazation
+
+  Created by Arwa Alattas on 03/05/1443 AH.
+  
+*/
+"diameter" = "أدخل قطر الدائرة";
+"calcircumferenceOfCircle" = "محيط الدائرة";
+
+"done" = "تم";
