@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Bmi2" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="51" translatesAutoresizingMaskIntoConstraints="NO" id="XWR-yl-e26">
+                                <rect key="frame" x="20" y="134" width="374" height="451.5"/>
+                                <subviews>
+                                    <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="AZl-3c-GjH">
+                                        <rect key="frame" x="8.5" y="0.0" width="357" height="32"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="31" id="IfQ-Mv-m7h"/>
+                                            <constraint firstAttribute="width" constant="357" id="UFA-ju-6eJ"/>
+                                        </constraints>
+                                        <segments>
+                                            <segment title="AR"/>
+                                            <segment title="EN"/>
+                                        </segments>
+                                        <color key="tintColor" red="0.44984396170000002" green="0.626977334" blue="0.63871133209999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <color key="selectedSegmentTintColor" red="0.44984396170000002" green="0.626977334" blue="0.63871133209999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <connections>
+                                            <action selector="languageChanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="6bJ-Y4-6Du"/>
+                                        </connections>
+                                    </segmentedControl>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="58" translatesAutoresizingMaskIntoConstraints="NO" id="HLz-io-j4x">
+                                        <rect key="frame" x="50" y="82" width="274" height="92"/>
+                                        <subviews>
+                                            <stackView opaque="NO" contentMode="scaleToFill" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="Hvc-mA-y3j">
+                                                <rect key="frame" x="0.0" y="0.0" width="274" height="17"/>
+                                                <subviews>
+                                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="bezel" placeholder="please enter your height" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="BaJ-OB-hOd">
+                                                        <rect key="frame" x="0.0" y="0.0" width="184.5" height="17"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                        <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
+                                                    </textField>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="heightheight" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fhG-Hn-g5a">
+                                                        <rect key="frame" x="192.5" y="0.0" width="81.5" height="17"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                        <nil key="textColor"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                </subviews>
+                                            </stackView>
+                                            <stackView opaque="NO" contentMode="scaleToFill" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="K58-yp-N4o">
+                                                <rect key="frame" x="0.0" y="75" width="240.5" height="17"/>
+                                                <subviews>
+                                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="bezel" placeholder="please enter your weight" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="fQB-Uu-3JD">
+                                                        <rect key="frame" x="0.0" y="0.0" width="187" height="17"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                        <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
+                                                    </textField>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Weight" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="akP-Bc-hcJ">
+                                                        <rect key="frame" x="195" y="0.0" width="45.5" height="17"/>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                        <nil key="textColor"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                </subviews>
+                                            </stackView>
+                                        </subviews>
+                                    </stackView>
+                                    <button opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="251" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1Qp-eM-Tso">
+                                        <rect key="frame" x="16" y="225" width="342" height="31"/>
+                                        <color key="backgroundColor" red="0.44984396170000002" green="0.626977334" blue="0.63871133209999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="342" id="ddy-C8-79r"/>
+                                            <constraint firstAttribute="height" constant="31" id="sV9-zB-ojP"/>
+                                        </constraints>
+                                        <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <state key="normal" title="Button"/>
+                                        <buttonConfiguration key="configuration" style="plain" title="Button"/>
+                                        <connections>
+                                            <action selector="calculateBMI:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yS2-ws-31o"/>
+                                        </connections>
+                                    </button>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MpT-sV-gpx">
+                                        <rect key="frame" x="162" y="307" width="50" height="43.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <color key="highlightedColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rzc-9F-LHg">
+                                        <rect key="frame" x="50" y="401.5" width="274" height="50"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" red="0.94388431310653687" green="0.97005993127822876" blue="0.91264623403549194" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="XWR-yl-e26" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="90" id="4gO-f9-STK"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="XWR-yl-e26" secondAttribute="trailing" constant="20" id="Csf-9B-5ea"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="XWR-yl-e26" secondAttribute="bottom" constant="276.5" id="M8y-je-OlW"/>
+                            <constraint firstItem="XWR-yl-e26" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="ug8-r5-TC3"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="bmiDescriptionLabel" destination="rzc-9F-LHg" id="7Yy-6Q-rdt"/>
+                        <outlet property="bmiLabel" destination="MpT-sV-gpx" id="Kkb-I7-EP7"/>
+                        <outlet property="calculateButton" destination="1Qp-eM-Tso" id="LT0-wb-0a9"/>
+                        <outlet property="heightLabel" destination="fhG-Hn-g5a" id="NRb-Qm-miX"/>
+                        <outlet property="heightTextField" destination="BaJ-OB-hOd" id="Pr6-Xo-fmb"/>
+                        <outlet property="languageSegmentControl" destination="AZl-3c-GjH" id="fyj-hb-fYv"/>
+                        <outlet property="weightLabel" destination="akP-Bc-hcJ" id="s5U-HC-Lv8"/>
+                        <outlet property="weightTextField" destination="fQB-Uu-3JD" id="ib2-E4-hNe"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="363.768115942029" y="1.3392857142857142"/>
+        </scene>
+    </scenes>
+</document>
