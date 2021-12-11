@@ -66,7 +66,7 @@ class ViewController: UIViewController {
         
         let toolBar = UIToolbar()
         toolBar.sizeToFit()
-        let doneButton = UIBarButtonItem(barButtonSystemItem: .done, target: self, action: #selector(self.doneClicked))
+        let doneButton = UIBarButtonItem(title: "done".localized, style: .done, target: self, action: #selector(doneClicked))
         toolBar.setItems([doneButton], animated: false)
         diameterTextFeild.inputAccessoryView = toolBar
         
