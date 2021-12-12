@@ -1,0 +1,15 @@
+"bodyMassIndex" = "Body Mass Index";
+"normal" = "Normal";
+"overweight" = "Overweight";
+"obese" = "Obese";
+"height" = "Height";
+"weight" = "Weight";
+"underweight" = "Underweight";
+"calculate" = "Calculate";
+"pleaseEnterYourHeighInMeterEg1.7" = "Please enter your heigh in meter eg 1.7";
+"pleaseEnterYourWeight" = "Please enter your weight";
+"error" = "Error";
+"pleaseAddHeightAndWidthInTheCorrectFormat" = "Please add height and width in the correct format";
+"weightInNumbers" = "Weight in Numbers";
+"weightCondition" = "Weight Condition";
+"done" = "Done";
