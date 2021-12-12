@@ -1,0 +1,15 @@
+"bodyMassIndex" = "Indice De Masse Corporelle";
+"normal" = "Normal";
+"overweight" = "En Surpoids";
+"obese" = "Obèse";
+"height" = "Hauteur";
+"weight" = "Poids";
+"underweight" = "Insuffisance Pondérale";
+"calculate" = "Calculer";
+"pleaseEnterYourHeighInMeterEg1.7" = "Veuillez entrer votre hauteur en mètre, exemple 1.7";
+"pleaseEnterYourWeight" = "Veuillez entrer votre poids";
+"error" = "Erreur";
+"pleaseAddHeightAndWidthInTheCorrectFormat" = "Veuillez ajouter la hauteur et la largeur au format correct";
+"weightInNumbers" = "Poids en chiffres";
+"weightCondition" = "Condition de poids";
+"done" = "Terminé";
