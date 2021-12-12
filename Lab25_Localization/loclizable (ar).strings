@@ -1,0 +1,17 @@
+/* 
+  loclizable (ar).strings
+  BM
+
+  Created by Amal Jeli on 04/05/1443 AH.
+  
+*/
+"underweight" = "اقل من الوزن الطبيعي";
+"normalweight" = "وزن طبيعي";
+"overweight" = "وزن زائد ";
+"obese" = "سمنة";
+"wight" = "الوزن";
+"hight" = "الطول";
+"equalBmi" = " كتلة الجسم";
+"ChangeLanguage" = "Englesh";
+"CalcuateBmi" = "حساب كتلة الجسم";
+"Bmi" = "Bmi";
